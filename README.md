@@ -1,2 +1,2 @@
-# Whats
-chating
+# WhatsApp
+chats
